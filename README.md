@@ -1,0 +1,1 @@
+# WindowsxiaQT5.14.1-MinGW-32bityuOpenCV4.5.1debianyipeizhizhinan
